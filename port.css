@@ -1,0 +1,106 @@
+body{
+    background-image: url(bg1.webp);
+}
+.topnav a{
+ float: right;
+ color: rgb(251, 251, 252);
+ /* background-color: beige; */
+ text-align: center;
+ padding: 26px;
+ text-decoration: none;
+ font-size: 15px;
+ font-family: sans-serif;
+}
+.topnav a:hover{
+    color: rgb(32, 236, 13);
+     /* background-color: rgba(243, 254, 254, 0.915); */
+}
+.topnav a.active{
+    color: aquamarine;
+     background-color: rgba(230, 240, 240, 0.882); 
+}
+.logo{
+    float: left;   
+}
+.ava{
+    border-radius:50%;
+    width: 50px; 
+    height: 50px;
+}
+.pic{
+    
+    width: 350px;
+    height: 425px;
+    border-radius: 100px;
+    float: center;
+    text-align: center;
+}
+.hi{
+    color: rgb(252, 252, 251);
+    text-align: center;
+}
+.hii{
+    color:rgb(167, 167, 186);
+}
+.hel{
+    color: rgb(221, 188, 161);
+    margin: 10px;
+    font-size: 35px;
+    font-family: serif;
+}
+.hell{
+    font-size: 22px;
+     margin:10px ;
+     padding:10PX;
+     word-spacing: 15px;
+     text-indent: 150px;
+     line-height: 2;
+    color: rgb(217, 226, 234);
+}
+.icon a{
+    font-size:1.7rem;
+    color: rgb(187, 201, 202);
+    margin:10px;
+    text-decoration: none;
+}
+.icon a:hover{
+    color: rgb(32, 236, 13);
+}
+.ice{
+     font-size:1.7rem;
+    color: rgb(187, 201, 202);
+    margin: 150px;
+    margin-top: 150px;
+    float: left;
+    text-decoration: none;
+}
+.map{
+    float: right;
+    display: flex;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.res{
+    margin: 20px;
+    color: brown;
+    text-align: center;
+}
+.in{
+    text-indent: 150px;
+    color: aliceblue;
+     word-spacing: 15px;
+     line-height: 2;
+      font-size: 20px;
+     margin:20px ;
+     padding:10PX;
+}
+.edu{
+    color: aliceblue;
+     font-size: 17px;
+}
+.wel{
+    color: rgb(88, 119, 147);
+}
+.come{
+    color: rgb(231, 103, 103);
+}
